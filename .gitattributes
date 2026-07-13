@@ -1,0 +1,6 @@
+**/data/assets/**/*.s linguist-generated=true
+**/data/assets/**/*.h linguist-generated=true
+*.py linguist-detectable=true
+*.c linguist-detectable=true
+*.cpp linguist-detectable=true
+*.h linguist-detectable=true
