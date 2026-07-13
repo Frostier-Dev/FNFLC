@@ -1,0 +1,6 @@
+#define SFX_CANCELMENU	0
+#define SFX_CONFIRMMENU	1
+#define MOD_FREAKYMENU	0
+#define MSL_NSONGS	1
+#define MSL_NSAMPS	3
+#define MSL_BANKSIZE	4
