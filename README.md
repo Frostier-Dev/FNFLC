@@ -13,7 +13,6 @@ Hello! This project is not affiliated with Newgrounds or Funkin' Crew Inc. It is
 * **32-Bit:** Nintendo Game Boy Advance, Nintendo DS
 
 ## 👥 Credits ![FNFLC](data/bf-icon.gif)
-
 * **Frostier71** - Programmer and Artist
 
 ## The Funkin' Crew (Original Creators) ![FNFLC](data/gf-icon.gif)
@@ -23,6 +22,6 @@ Hello! This project is not affiliated with Newgrounds or Funkin' Crew Inc. It is
 * **[Kawai Sprite](https://x.com)** - Musician / Composer
 
 ## Official Game Links
-* **Play on Newgrounds:** [Friday Night Funkin' on Newgrounds](https://newgrounds.com)
-* **Support on Itch.io:** [Friday Night Funkin' on Itch.io](https://itch.io)
+* **Play on Newgrounds:** [Friday Night Funkin' on Newgrounds](https://www.newgrounds.com/portal/view/770371)
+* **Support on Itch.io:** [Friday Night Funkin' on Itch.io](https://ninja-muffin24.itch.io/funkin)
 * **Source Code:** [Original GitHub Repository](https://github.com/Funkin)
